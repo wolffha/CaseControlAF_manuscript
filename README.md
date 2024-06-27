@@ -9,3 +9,5 @@ The files are as follows:
 * **AFSimulations.R**: contains the code used to run all simulations included in manuscript
 * **CaseControlSE_correction_final.Rmd**: R notebook (with code and output) from development of CaseControl_SE correction framework
 * **CaseControlSE_correction_final.html**: knitted notebook output as HTML from development of CaseControl_SE correction framework
+
+Please contact Hayley Wolff (hayley.wolff@cuanschutz.edu) for additional details or data
