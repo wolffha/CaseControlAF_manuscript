@@ -9,5 +9,8 @@ The files are as follows:
 * **AFSimulations.R**: contains the code used to run all simulations included in manuscript
 * **CaseControlSE_correction_final.Rmd**: R notebook (with code and output) from development of CaseControl_SE correction framework
 * **CaseControlSE_correction_final.html**: knitted notebook output as HTML from development of CaseControl_SE correction framework
+* **CaseControlAF_ccGWAS.Rmd**: R notebook (with code chunks and plain text) for example usage of package methods with All of Us data to perform case-case GWAS
+* **CaseControlAF_sexChromosomeSim.R**: Code to perform simulations to generate AFs for autosomes and sex chromosomes 
+* **RootSimulations.R**: Code to perform simulations and output all root solution options for CaseControl_AF and plot results - toward showing only one root (x2) is within [0,1]
 
 Please contact Hayley Wolff (hayley.wolff@cuanschutz.edu) for additional details or data
